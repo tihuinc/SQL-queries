@@ -8,3 +8,9 @@
 - List all departments along with the number of people there (tricky - people often do an "inner join" leaving out empty departments)
 - List employees that don't have a boss in the same department
 - List all departments along with the total salary there
+
+
+### Knowledge Base:
+
+Difference between left/right/outer joins
+http://stackoverflow.com/questions/38549/difference-between-inner-and-outer-join
